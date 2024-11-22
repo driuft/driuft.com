@@ -9,7 +9,6 @@ theme:
   font:
     text: Noto Sans
     code: Roboto Mono
-  logo: false
   favicon: assets/logo.png
   icon:
     search: material/magnify
