@@ -1,0 +1,75 @@
+site_name: Aldo Socarras
+site_url: https://driuft.com
+site_description: "Aldo Socarras' personal website."
+site_author: Aldo Socarras
+copyright: Copyright &copy; 2024 Aldo Socarras
+theme:
+  name: material
+  language: en
+  font:
+    text: Noto Sans
+    code: Roboto Mono
+  logo: false
+  favicon: assets/logo.png
+  icon:
+    search: material/magnify
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+  features:
+    - announce.dismiss
+    - header.autohide
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.prune
+    - navigation.indexes
+    - navigation.top
+    - search.suggest
+    - search.highlight
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - pymdownx.details
+  - pymdownx.superfences
+
+extra:
+  generator: true
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/driuft
+    - icon: fontawesome/brands/bluesky
+      link: https://bsky.app/profile/driuft.com
+    - icon: fontawesome/brands/mastodon
+      link: https://androiddev.social/@driuft
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/driuft
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/airsocarras
+
+extra_css:
+  - stylesheets/extra.css
+
+plugins:
+  - search
+  - tags
