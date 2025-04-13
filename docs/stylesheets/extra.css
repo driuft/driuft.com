@@ -15,16 +15,3 @@
 [data-md-color-scheme="default"] h1 {
     color: #000;
 }
-
-@media (max-width: 768px) {
-    .polaroid-container {
-        float: none !important;
-        margin: 2rem auto !important;
-        display: block !important;
-    }
-}
-
-@font-face {
-    font-family: "Rock Salt";
-    src: url("assets/fonts/RockSalt-Regular.ttf");
-}
