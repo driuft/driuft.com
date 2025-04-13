@@ -11,6 +11,14 @@
     color: #fff;
 }
 
+/* [Default] Higher contrast configuration */
+[data-md-color-scheme="default"] {
+    --md-default-bg-color: #fff;
+    --md-default-fg-color: #000;
+    --md-typeset-color: #000;
+    --md-footer-bg-color: #fff;
+}
+
 /* [Default] h1 heading color */
 [data-md-color-scheme="default"] h1 {
     color: #000;
