@@ -14,7 +14,7 @@ theme:
   font:
     text: Noto Sans
     code: Roboto Mono
-  favicon: assets/images/logo.png
+  favicon: assets/images/favicon.svg
   logo: assets/images/logo-white.png
   icon:
     search: material/magnify
