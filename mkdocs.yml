@@ -1,34 +1,43 @@
 site_name: Aldo Socarras
 site_url: https://driuft.com
-site_description: "Aldo Socarras' personal website."
+site_description: "Android Engineer at Square with a passion for accessibility, performance, and all things mobile. Building impactful apps and sharing random thoughts."
 site_author: Aldo Socarras
-copyright: Copyright &copy; 2024 Aldo Socarras
+
+copyright: <p>Copyright &copy; 2024 - 2025 Aldo Socarras</p>
+
+nav:
+  - Welcome: index.md
+
 theme:
   name: material
   language: en
   font:
     text: Noto Sans
     code: Roboto Mono
-  favicon: assets/logo.png
+  favicon: assets/images/logo.png
+  logo: assets/images/logo-white.png
   icon:
     search: material/magnify
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
+      primary: black
       toggle:
-        icon: material/brightness-auto
+        icon: material/lightbulb-auto
         name: Switch to light mode
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
+      primary: black
       toggle:
-        icon: material/brightness-7 
+        icon: material/lightbulb
         name: Switch to dark mode
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
+      primary: black
       toggle:
-        icon: material/brightness-4
+        icon: material/lightbulb-outline
         name: Switch to light mode
 
   features:
@@ -49,6 +58,8 @@ theme:
 markdown_extensions:
   - admonition
   - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
   - pymdownx.details
   - pymdownx.superfences
 
