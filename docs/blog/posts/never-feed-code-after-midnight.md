@@ -8,10 +8,11 @@ date: 2025-04-14
 
 <!-- more -->
 
-<figure markdown="span">
-  ![Image title](images/mogwai.png){ width="1200" }
-  <figcaption>Image caption</figcaption>
-</figure>
+![Doodle of a wide-eyed, cartoonish Mogwai create from the movie Gremlins (1984) with large ears and an orange-and-white color scheme.](images/mogwai.png)
+
+/// caption
+`git reflog` patiently waiting for its next victim.
+///
 
 There's something almost mystical about typing in the shroud of night. No Slack notifications. No meetings throwing off your flow. Just you, the glow of your screen, and the code. After a day of bouncing between distractions and making minimal progress, this feels like your moment to finally get something meaningful done.
 
