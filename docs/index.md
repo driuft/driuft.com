@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 
-<h1 style="text-align:center;">welcome.</h1>
+<h1 style="text-align: center;">welcome.</h1>
 
 <div style="display: block; overflow: hidden;">
   <div style="display: inline-block; background-color: white; padding: 15px 15px 40px 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.15); margin: 1rem 2rem; max-width: 300px; transform: rotate(3deg); border: 1px solid #f0f0f0; float: right;" class="polaroid-container">
@@ -12,9 +12,9 @@ hide:
     <div style="text-align: center; font-family: Rock Salt; margin-top: 10px; color: #333333">We don't talk about Bruno</div>
   </div>
 
-  <div>
-    <h2>whoami</h2>
+  <div style="margin: 5% 0;">
     <p>👋 Hi! I'm Aldo, an Android Engineer at Square. I'm building product experiences that empower millions of sellers worldwide. I've taught mobile development at Meta and Google, focused on empowering underrepresented groups in tech through teaching and mentoring.</p>
+    <p>I love to share what I learn by <a href="speaking">speaking at events</a> and <a href="blog">writing random thoughts</a>.</p>
   </div>
 </div>
 

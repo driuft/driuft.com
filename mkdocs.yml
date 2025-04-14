@@ -7,6 +7,8 @@ copyright: <p>Copyright &copy; 2024 - 2025 Aldo Socarras</p>
 
 nav:
   - Welcome: index.md
+  - Speaking: speaking/index.md
+  - Blog: blog/index.md
 
 theme:
   name: material
@@ -62,6 +64,8 @@ markdown_extensions:
   - pymdownx.blocks.caption
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
 
 extra:
   generator: true
@@ -81,5 +85,7 @@ extra_css:
   - stylesheets/extra.css
 
 plugins:
+  - blog:
+      authors: false
   - search
   - tags
