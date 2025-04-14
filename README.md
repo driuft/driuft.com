@@ -22,17 +22,21 @@ Source code for my personal website [driuft.com](https://driuft.com), built with
 
 ```
 driuft.com/
-├── docs/                  # Website content
-│   ├── assets/            # Images, fonts, and other assets
-│   │   ├── images/        # Image files
-│   │   ├── fonts/         # Custom fonts
-│   │   └── icons/         # Social and UI icons
-│   ├── index.md           # Homepage content
-│   ├── projects/          # Project documentation
-│   └── blog/              # Blog posts
-├── mkdocs.yml             # MkDocs configuration
-├── requirements.txt       # Python dependencies
-└── README.md              # This file
+├── docs/                   # Website content
+│   ├── assets/             # Images, fonts, and other assets
+│   │   ├── fonts/          # Custom fonts
+│   │   ├── images/         # Image files
+│   ├── blog/               # Blog posts
+│   │   ├── posts/          # Content of blog posts
+│   │   │   ├── images/     # Blog image files
+│   │   ├── index.md        # Blog post list
+│   ├── speaking/           # Speaking profile
+│   │   ├── index.md        # Talks and speaking content
+│   ├── stylesheets/        # CSS extensions
+│   │   ├── extra.css       # Additional CSS configurations
+│   └── index.md            # Homepage content
+├── mkdocs.yml              # MkDocs configuration
+└── README.md               # This file
 ```
 
 ## Local Setup
