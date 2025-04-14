@@ -22,21 +22,22 @@ Source code for my personal website [driuft.com](https://driuft.com), built with
 
 ```
 driuft.com/
-├── docs/                   # Website content
-│   ├── assets/             # Images, fonts, and other assets
+├── docs/                   # Main documentation content
+│   ├── assets/             # Shared assets like images and fonts
 │   │   ├── fonts/          # Custom fonts
-│   │   ├── images/         # Image files
-│   ├── blog/               # Blog posts
-│   │   ├── posts/          # Content of blog posts
-│   │   │   ├── images/     # Blog image files
-│   │   ├── index.md        # Blog post list
-│   ├── speaking/           # Speaking profile
-│   │   ├── index.md        # Talks and speaking content
-│   ├── stylesheets/        # CSS extensions
-│   │   ├── extra.css       # Additional CSS configurations
+│   │   └── images/         # General image files
+│   ├── blog/               # Blog section
+│   │   ├── posts/          # Individual blog posts
+│   │   │   └── images/     # Images specific to blog posts
+│   │   └── index.md        # Blog index page
+│   ├── speaking/           # Speaking engagements and talks
+│   │   └── index.md        # Speaking overview page
+│   ├── stylesheets/        # Custom CSS files
+│   │   └── extra.css       # Additional CSS configurations
 │   └── index.md            # Homepage content
-├── mkdocs.yml              # MkDocs configuration
-└── README.md               # This file
+├── mkdocs.yml              # MkDocs configuration file
+└── README.md               # Project overview and instructions
+
 ```
 
 ## Local Setup
