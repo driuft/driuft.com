@@ -35,6 +35,8 @@ driuft.com/
 │   ├── stylesheets/        # Custom CSS files
 │   │   └── extra.css       # Additional CSS configurations
 │   └── index.md            # Homepage content
+├── includes/               # Global features
+│   └── abbreviations.md    # List of global abbreviations
 ├── mkdocs.yml              # MkDocs configuration file
 └── README.md               # Project overview and instructions
 
