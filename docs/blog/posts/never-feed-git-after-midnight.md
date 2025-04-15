@@ -4,7 +4,8 @@ date: 2025-04-14
 
 # Never Feed Git After Midnight
 
-> First of all, keep him out of the light, he hates bright light, especially sunlight, it'll kill him. Second, don't give him any water, not even to drink. But the most important rule, the rule you can never forget, no matter how much he cries, no matter how much he begs, **never feed him after midnight**.
+> _First of all, keep him out of the light, he hates bright light, especially sunlight, it'll kill him. Second, don't give him any water, not even to drink. But the most important rule, the rule you can never forget, no matter how much he cries, no matter how much he begs, **never feed him after midnight**._
+> <p style="text-align: right;">— <i>Gremlins</i> (1984)</p>
 
 <!-- more -->
 
