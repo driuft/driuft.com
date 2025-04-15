@@ -11,7 +11,7 @@ date: 2025-04-14
 ![Doodle of a wide-eyed, cartoonish Mogwai create from the movie Gremlins (1984) with large ears and an orange-and-white color scheme.](images/mogwai.png)
 
 /// caption
-`git reflog` patiently waiting for its next victim.
+`git reflog`[^1] patiently waiting for its next victim.
 ///
 
 There's something almost mystical about typing in the shroud of night. No Slack notifications. No meetings throwing off your flow. Just you, the glow of your screen, and the code. 
@@ -43,3 +43,5 @@ You won't like what it turns into.
 And unlike Gremlins, you can't just toss your spaghetti monster code into direct sunlight to make it disappear.
 
 You'll have to refactor it yourself—in the harsh daylight of tomorrow's code review.
+
+[^1]: Utility that keeps a record of all reference updates in your Git repository.
