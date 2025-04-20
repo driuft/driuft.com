@@ -13,7 +13,7 @@ hide:
   </div>
   <br>
   <div style="margin: 5% 0;">
-    <p>👋 Hi! I'm Aldo, an Android Engineer at Square. I'm building product experiences that empower millions of sellers worldwide. I've taught mobile development at Meta and Google, focused on empowering underrepresented groups in tech through teaching and mentoring.</p>
+    <p>👋 Hi! I'm Aldo, an <a href="experience"><b>Android Engineer at Square</b></a>. I'm building product experiences that empower millions of sellers worldwide. I've taught mobile development at Meta and Google, focused on empowering underrepresented groups in tech through teaching and mentoring.</p>
     <p>I love to share what I learn by <a href="speaking"><b>speaking at events</b></a> and <a href="blog"><b>writing random thoughts</b></a>.</p>
   </div>
 </div>

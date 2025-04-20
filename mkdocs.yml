@@ -7,6 +7,7 @@ copyright: <p>Copyright &copy; 2024 - 2025 Aldo Socarras</p>
 
 nav:
   - Welcome: index.md
+  - Experience: experience/index.md
   - Speaking: speaking/index.md
   - Blog: blog/index.md
 
