@@ -30,6 +30,8 @@ driuft.com/
 │   │   ├── posts/          # Individual blog posts
 │   │   │   └── images/     # Images specific to blog posts
 │   │   └── index.md        # Blog index page
+│   ├── experience/         # Professional work experience
+│   │   └── index.md        # Work experience content page
 │   ├── speaking/           # Speaking engagements and talks
 │   │   └── index.md        # Speaking overview page
 │   ├── stylesheets/        # Custom CSS files
