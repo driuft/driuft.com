@@ -65,7 +65,6 @@ markdown_extensions:
   - attr_list
   - footnotes
   - md_in_html
-  - neoteroi.timeline
   - pymdownx.blocks.caption
   - pymdownx.details
   - pymdownx.snippets:
@@ -91,7 +90,6 @@ extra:
 
 extra_css:
   - stylesheets/extra.css
-  - stylesheets/neoteroi-mkdocs.css
 
 plugins:
   - blog:
